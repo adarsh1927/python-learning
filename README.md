@@ -1,2 +1,2 @@
 Python learning:
-  this is repo for python programe who can help to understand codes of python  
+  this is repo for python program who can help to understand codes of python  
